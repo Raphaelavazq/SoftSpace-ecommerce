@@ -180,4 +180,4 @@ For commercial use, review the original repository’s license and terms.
 
 ---
 
-**Built with ❤️ following the tuturials by  [JavaScript Mastery](https://jsmastery.pro/next15) and [Adrian Hajdin](https://youtu.be/3JUsg-WsU9o?si=YzrJY-W19jrRRJhD)**
+**Built with ❤️ following the tuturials by  [JavaScript Mastery](https://youtu.be/3JUsg-WsU9o?si=YzrJY-W19jrRRJhD)**
